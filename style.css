@@ -1,4 +1,18 @@
-:root {
-    background-image: url(https://i.ibb.co/N9vr0RB/Color-Template.webp);
-    background-size: cover;
+body {
+    background-color: #3b3b3b;
+}
+h1 {
+    color: #ffffff;
+    font-family: "Ubuntu";
+    text-decoration: underline;
+}
+p {
+    color: #ffffff;
+    font-family: "Ubuntu";
+}
+a {
+    color: #919191;
+}
+a :visited{
+    color: #919191;
 }
